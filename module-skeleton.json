@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-job-estimates-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-job-estimates",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-job-estimates-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/job-estimates.md",
+  "presentationPlan": "projects/accounting/vue/job-estimates.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
